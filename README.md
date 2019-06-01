@@ -2,6 +2,7 @@
 ### `npm init`
 ### `npm install --save next react react-dom`
 ### `npm install --save @zeit/next-css`
+### `npm install --save redux redux-devtools-extension redux-thunk react-redux next-redux-wrapper`
 
 You need not install the above specified packages.<br>
 These packages auto-install on setting up on PC.
